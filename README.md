@@ -16,10 +16,10 @@ This project is a simple recipe application that I developed to gain experience 
 - [Axios](https://github.com/axios/axios) for data fetching
 
 ## Images
-<img src="https://user-images.githubusercontent.com/86911611/163735347-ef5e4833-fdbf-48c7-ab71-e30c942b3022.png" width="245" height="500" /><img/>
-<img src="https://user-images.githubusercontent.com/86911611/163735348-0a720a3a-8e83-4b7a-80db-e1262481e19d.png" width="245" height="500" /><img/>
-<img src="https://user-images.githubusercontent.com/86911611/163735349-2bc995bc-c9c3-4c5a-9da4-e9e8fb51cfd0.png" width="245" height="500" /><img/>
-<img src="https://user-images.githubusercontent.com/86911611/163735350-465fd97b-4afb-4526-b0c8-8c8e118db8c8.png" width="245" height="500" /><img/>
+<img src="https://user-images.githubusercontent.com/86911611/163735347-ef5e4833-fdbf-48c7-ab71-e30c942b3022.png" width="325" height="700" /><img/>
+<img src="https://user-images.githubusercontent.com/86911611/163735348-0a720a3a-8e83-4b7a-80db-e1262481e19d.png" width="325" height="700" /><img/><br>
+<img src="https://user-images.githubusercontent.com/86911611/163735349-2bc995bc-c9c3-4c5a-9da4-e9e8fb51cfd0.png" width="325" height="700" /><img/>
+<img src="https://user-images.githubusercontent.com/86911611/163735350-465fd97b-4afb-4526-b0c8-8c8e118db8c8.png" width="325" height="700" /><img/>
 
 ## Installation
 
